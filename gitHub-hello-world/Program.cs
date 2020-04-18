@@ -11,6 +11,7 @@ namespace gitHub_hello_world
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("And Hello again!");
             Console.ReadKey();
         }
     }
